@@ -1,0 +1,1 @@
+print("wsy is beautiful")
