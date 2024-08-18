@@ -1,1 +1,0 @@
-print("wsy is beautiful")
